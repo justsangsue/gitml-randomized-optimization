@@ -1,0 +1,8 @@
+Implementation and experiment of randomized optimization algorithms based on ABAGAIL
+
+ABAGAIL
+| bin # ABAGAIL compiled class files
+| docs # auto generated ABAGAIL documentation
+| jython # ABAGAIL code
+| results # processed data and result figures
+| src # ABAGAIL source code
